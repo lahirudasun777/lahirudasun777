@@ -1,46 +1,36 @@
-# 👋 Hey, I'm Lahiru Dasun!
+<h1 align="center">Hi 👋, I'm lahiru dasun</h1>
+<h3 align="center">"Dream Big. Build Smart. Achieve More." 🚀</h3>
 
-🚀 **Software Engineer | IT Operator | Entrepreneur**  
-🌍 **Dreaming Big | Building the Future**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lahirudasun777&label=Profile%20views&color=0e75b6&style=flat" alt="lahirudasun777" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lahirudasun777" alt="lahirudasun777" /></a> </p>
 
-## 🎯 About Me
-Hey there! I'm Lahiru, a passionate **Software Engineering Student** at **UK BCU (Java Institute)** and an **IT Operator at Cargills Ceylon PLC**. I'm on a mission to **master tech, build businesses, and create a global impact**. My ultimate goal? **To become a top 5 billionaire in the world within 6 years!** 💎
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-## 🚀 Tech & Skills
-💻 **Programming:** Python, Java, React, React Native  
-🔐 **Cybersecurity:** Penetration Testing, Ethical Hacking  
-📊 **Business & Entrepreneurship:** Scaling, Branding, Digital Marketing  
+- 🔭 I’m currently working on [Chat App with React Native](Project Link (Coming Soon))
 
-## 🛠️ Current Projects
-🚀 **Chat App with React Native** – Building seamless real-time communication  
-💧 **HydrateWise** – Smart Water Management System  
-🌍 **Sri Lanka Tourism Growth Strategy** – Research & Innovation  
-♻️ **Waste Segregation App** – Smart Home Waste Management  
-👨‍🌾 **Farmers’ Marketplace** – Bridging the gap between farmers & buyers  
+- 🌱 I’m currently learning **React, Java, Cybersecurity**
 
-## 🌟 Goals & Vision
-🎯 Master **Full-Stack Development**  
-🎯 Scale my **websites & businesses**  
-🎯 Establish **Knowndepth YouTube Channel**  
-🎯 Achieve **financial freedom & billionaire status**  
+- 👯 I’m looking to collaborate on [HydrateWise - Smart Water Management](Project Link (Coming Soon))
 
----
+- 🤝 I’m looking for help with [Sri Lanka Tourism Growth Strategy](Project Link (Coming Soon))
 
-## 🌐 Let's Connect!
-📧 **Email:** lahirudasun[triple seven]@gmail.com  
-📱 **Contact:** 0766[hidden]285  
-📺 **YouTube:** [Knowndepth](https://www.youtube.com/@Knowndepth)  
-💎 **Gem Business:** [RPGemKing](https://rpgemking.com)  
-🛍️ **E-commerce & Affiliate Marketing:** [Scoplix](https://www.scoplix.com)  
-🔗 **LinkedIn & X (Coming Soon)**
+- 👨‍💻 All of my projects are available at [Portfolio (Coming Soon)](Portfolio (Coming Soon))
 
-## 🚀 Fun Facts About Me
-⚡ I wake up at **4:30 AM** daily for peak productivity  
-✨ I believe in the **Law of Attraction**  
-💰 I’m obsessed with **business, growth, and innovation**  
+- 💬 Ask me about **React, Java, Ethical Hacking**
 
----
+- 📫 How to reach me **lahirudasun777@gmail.com**
 
-🌟 **If my work inspires you, hit that follow button and star my repos!** 🚀
+- 📄 Know about my experiences [Blog (Coming Soon)](Blog (Coming Soon))
+
+- ⚡ Fun fact **I think I am funny 😆**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://stackoverflow.com/users/17160886" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17160886" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lahirudasun777&show_icons=true&locale=en&layout=compact" alt="lahirudasun777" /></p>

@@ -1,51 +1,28 @@
-# 👋 Hi, I'm Lahiru Dasun
+# 🚀 Lahiru Dasun
 
-💻 **Software Engineering Student** | 🔐 **Cybersecurity Enthusiast** | 🌐 **Tech Explorer**  
-Passionate about building impactful software, exploring cutting-edge technologies, and mastering ethical hacking.  
-Currently diving deep into **Full-Stack Development** and **Cybersecurity**.
+**Software Engineer in the making** | **Cybersecurity Explorer** | **Problem Solver**
 
----
-
-## 🚀 Current Projects
-- **Chat App** *(React Native | Coming Soon)*  
-- **HydrateWise** – Smart Water Management System *(Coming Soon)*  
-- **Sri Lanka Tourism Growth Strategy** *(Coming Soon)*  
+I build impactful digital solutions, explore cutting-edge security, and craft software with precision.  
+Focused on **Full-Stack Development**, **Cybersecurity**, and **Scalable Applications**.
 
 ---
 
-## 📚 Learning Journey
-- **Frontend & Mobile**: React, React Native  
-- **Backend**: Java Development  
-- **Security**: Cybersecurity & Ethical Hacking  
+## 💡 Skills Snapshot
+**Languages:** Java · Python · JavaScript · TypeScript · PHP  
+**Frontend:** React · React Native · Angular · HTML5 · Figma  
+**Backend:** Node.js · Laravel · MySQL · MongoDB · Firebase  
+**Cloud & DevOps:** AWS · Google Cloud · Docker  
+**Security:** Ethical Hacking · Networking · Penetration Testing
 
 ---
 
-## 💬 Expertise
-- Full-Stack Development  
-- Java, Python, React  
-- Networking & Ethical Hacking  
+## 📈 GitHub at a Glance
+![](https://github-readme-stats.vercel.app/api?username=lahirudasun777&theme=tokyonight&show_icons=true&hide_border=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=lahirudasun777&theme=tokyonight&hide_border=true)
 
 ---
 
-## 🌐 Connect With Me
-[📧 Email](mailto:lahirudasun777@gmail.com)  
-[💬 Discord Server](https://discord.gg/Ax77jAQw)  
-🌐 *Portfolio & Blog coming soon*
+## 🌍 Let’s Connect
+[📧 Email](mailto:lahirudasun777@gmail.com) · [💬 Discord](https://discord.gg/Ax77jAQw)
 
----
-
-## 📊 GitHub Insights 
-![](https://github-readme-streak-stats.herokuapp.com/?user=lahirudasun777&theme=radical&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lahirudasun777&theme=radical&layout=compact&hide_border=false)
-
----
-
-## 🏆 Achievements
-![](https://github-profile-trophy.vercel.app/?username=lahirudasun777&theme=radical&no-frame=true&margin-w=4)
-
----
-
-## ✍️ Quote
-> “Success is not final, failure is not fatal: it is the courage to continue that counts.” – Winston Churchill  
-
-[![](https://visitcount.itsvg.in/api?id=lahirudasun777&icon=8&color=0)](https://visitcount.itsvg.in)
+> “Turning ideas into solutions that make a difference.”
